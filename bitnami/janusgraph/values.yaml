@@ -21,6 +21,11 @@ global:
   imagePullSecrets: []
   defaultStorageClass: ""
   storageClass: ""
+  ## Security parameters
+  ##
+  security:
+    ## @param global.security.allowInsecureImages Allows skipping image verification
+    allowInsecureImages: false
   ## Compatibility adaptations for Kubernetes platforms
   ##
   compatibility:
@@ -618,7 +623,7 @@ persistence:
   ##
   resourcePolicy: ""
 
-## @section Prometheus metrics
+## @section Prometheus metrics parameters
 ##
 metrics:
   ## @param metrics.enabled Enable the export of Prometheus metrics
