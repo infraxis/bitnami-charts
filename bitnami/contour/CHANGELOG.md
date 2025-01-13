@@ -1,8 +1,18 @@
 # Changelog
 
+## 19.5.1 (2025-01-12)
+
+* [bitnami/contour] Release 19.5.1 ([#31311](https://github.com/bitnami/charts/pull/31311))
+
+## 19.5.0 (2025-01-07)
+
+* [bitnami/*] Fix typo in README (#31052) ([b41a51d](https://github.com/bitnami/charts/commit/b41a51d1bd04841fc108b78d3b8357a5292771c8)), closes [#31052](https://github.com/bitnami/charts/issues/31052)
+* [bitnami/contour] Allow replacing certgen with cert-manager (#29416) ([63e4a63](https://github.com/bitnami/charts/commit/63e4a6324eff9a9b92322b3df97f97c5009ac410)), closes [#29416](https://github.com/bitnami/charts/issues/29416)
+
 ## 19.4.0 (2024-12-10)
 
-* [bitnami/contour] Detect non-standard images ([#30874](https://github.com/bitnami/charts/pull/30874))
+* [bitnami/*] Add Bitnami Premium to NOTES.txt (#30854) ([3dfc003](https://github.com/bitnami/charts/commit/3dfc00376df6631f0ce54b8d440d477f6caa6186)), closes [#30854](https://github.com/bitnami/charts/issues/30854)
+* [bitnami/contour] Detect non-standard images (#30874) ([e47bbb4](https://github.com/bitnami/charts/commit/e47bbb4f1f57e1eea55f96f3c5641ce8564930af)), closes [#30874](https://github.com/bitnami/charts/issues/30874)
 
 ## <small>19.3.2 (2024-12-03)</small>
 
