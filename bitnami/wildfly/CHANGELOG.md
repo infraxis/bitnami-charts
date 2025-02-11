@@ -1,8 +1,21 @@
 # Changelog
 
+## 23.0.3 (2025-02-06)
+
+* [bitnami/wildfly] Release 23.0.3 ([#31819](https://github.com/bitnami/charts/pull/31819))
+
+## <small>23.0.2 (2025-01-28)</small>
+
+* [bitnami/wildfly] Release 23.0.2 (#31635) ([903f5b0](https://github.com/bitnami/charts/commit/903f5b085872373a70ec71192dee4139bca809f6)), closes [#31635](https://github.com/bitnami/charts/issues/31635)
+
+## <small>23.0.1 (2025-01-14)</small>
+
+* [bitnami/wildfly] Release 23.0.1 (#31372) ([7ba2259](https://github.com/bitnami/charts/commit/7ba2259f3e0c4227df2b0019cf63cbb9d322da35)), closes [#31372](https://github.com/bitnami/charts/issues/31372)
+
 ## 23.0.0 (2025-01-10)
 
-* [bitnami/wildfly] Release 23.0.0 ([#31290](https://github.com/bitnami/charts/pull/31290))
+* [bitnami/*] Fix typo in README (#31052) ([b41a51d](https://github.com/bitnami/charts/commit/b41a51d1bd04841fc108b78d3b8357a5292771c8)), closes [#31052](https://github.com/bitnami/charts/issues/31052)
+* [bitnami/wildfly] Release 23.0.0 (#31290) ([8a96dbe](https://github.com/bitnami/charts/commit/8a96dbe02b11013f033fee64eaeab2f5e546eea9)), closes [#31290](https://github.com/bitnami/charts/issues/31290)
 
 ## <small>22.1.1 (2024-12-12)</small>
 

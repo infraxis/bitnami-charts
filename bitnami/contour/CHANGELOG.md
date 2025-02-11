@@ -1,8 +1,24 @@
 # Changelog
 
-## 19.5.1 (2025-01-12)
+## 19.5.5 (2025-02-04)
 
-* [bitnami/contour] Release 19.5.1 ([#31311](https://github.com/bitnami/charts/pull/31311))
+* [bitnami/contour] Release 19.5.5 ([#31749](https://github.com/bitnami/charts/pull/31749))
+
+## <small>19.5.4 (2025-01-24)</small>
+
+* [bitnami/contour] Release 19.5.4 (#31548) ([e8bb5bb](https://github.com/bitnami/charts/commit/e8bb5bba9fd913b86e857058b6805b86a2cddff6)), closes [#31548](https://github.com/bitnami/charts/issues/31548)
+
+## <small>19.5.3 (2025-01-17)</small>
+
+* [bitnami/contour] Release 19.5.3 (#31415) ([9f6c2f3](https://github.com/bitnami/charts/commit/9f6c2f3c9b284832cbe8f5288ad8aaf10e6f700a)), closes [#31415](https://github.com/bitnami/charts/issues/31415)
+
+## <small>19.5.2 (2025-01-13)</small>
+
+* [bitnami/contour] Release 19.5.2 (#31343) ([03e6250](https://github.com/bitnami/charts/commit/03e6250d400f6e3b494727c3e0d447f6d6a9563b)), closes [#31343](https://github.com/bitnami/charts/issues/31343)
+
+## <small>19.5.1 (2025-01-12)</small>
+
+* [bitnami/contour] Release 19.5.1 (#31311) ([6078445](https://github.com/bitnami/charts/commit/6078445d8d73a914d715194ccbe7b2a4fd1aa84b)), closes [#31311](https://github.com/bitnami/charts/issues/31311)
 
 ## 19.5.0 (2025-01-07)
 

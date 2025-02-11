@@ -1,8 +1,16 @@
 # Changelog
 
-## 20.6.2 (2025-01-07)
+## 20.7.0 (2025-02-03)
 
-* [bitnami/redis] Release 20.6.2 ([#31238](https://github.com/bitnami/charts/pull/31238))
+* [bitnami/redis] Redis ACL support to the Bitnami Redis Helm Chart ([#31707](https://github.com/bitnami/charts/pull/31707))
+
+## <small>20.6.3 (2025-01-14)</small>
+
+* [bitnami/redis] fix: update JSON schema to allow string values for values passed to tpl (#30526) ([2c78a06](https://github.com/bitnami/charts/commit/2c78a06e5e351506a02a4ebbd7b706ebbe987169)), closes [#30526](https://github.com/bitnami/charts/issues/30526)
+
+## <small>20.6.2 (2025-01-07)</small>
+
+* [bitnami/redis] Release 20.6.2 (#31238) ([f24c74c](https://github.com/bitnami/charts/commit/f24c74cf287e64a25688ae0aab0362c3119f9f20)), closes [#31238](https://github.com/bitnami/charts/issues/31238)
 
 ## <small>20.6.1 (2024-12-21)</small>
 

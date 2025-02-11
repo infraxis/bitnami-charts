@@ -1,8 +1,21 @@
 # Changelog
 
-## 2.3.1 (2025-01-13)
+## 2.3.4 (2025-02-04)
 
-* [bitnami/kiam] Release 2.3.1 ([#31320](https://github.com/bitnami/charts/pull/31320))
+* [bitnami/kiam] Release 2.3.4 ([#31762](https://github.com/bitnami/charts/pull/31762))
+
+## <small>2.3.3 (2025-01-24)</small>
+
+* [bitnami/kiam] Release 2.3.3 (#31561) ([497c4de](https://github.com/bitnami/charts/commit/497c4de2b3461b0e0c13b17b9703c42b7de07443)), closes [#31561](https://github.com/bitnami/charts/issues/31561)
+
+## <small>2.3.2 (2025-01-17)</small>
+
+* [bitnami/kiam] Release 2.3.2 (#31427) ([5eeec24](https://github.com/bitnami/charts/commit/5eeec24f7c3ead3be25eea12e3e4b9b8478721c6)), closes [#31427](https://github.com/bitnami/charts/issues/31427)
+
+## <small>2.3.1 (2025-01-13)</small>
+
+* [bitnami/*] Fix typo in README (#31052) ([b41a51d](https://github.com/bitnami/charts/commit/b41a51d1bd04841fc108b78d3b8357a5292771c8)), closes [#31052](https://github.com/bitnami/charts/issues/31052)
+* [bitnami/kiam] Release 2.3.1 (#31320) ([394a0bc](https://github.com/bitnami/charts/commit/394a0bcac867e518e407d13e6119d57480bf577b)), closes [#31320](https://github.com/bitnami/charts/issues/31320)
 
 ## 2.3.0 (2024-12-10)
 

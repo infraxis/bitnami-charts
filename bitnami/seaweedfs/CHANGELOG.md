@@ -1,8 +1,45 @@
 # Changelog
 
+## 4.6.0 (2025-02-05)
+
+* [bitnami/seaweedfs] Add support for log persistence ([#31793](https://github.com/bitnami/charts/pull/31793))
+
+## <small>4.5.5 (2025-02-05)</small>
+
+* [bitnami/seaweedfs] Release 4.5.5 (#31779) ([db2813f](https://github.com/bitnami/charts/commit/db2813f08e07f03142c8acd5b587c47bf66a0057)), closes [#31779](https://github.com/bitnami/charts/issues/31779)
+
+## <small>4.5.4 (2025-02-03)</small>
+
+* [bitnami/seaweedfs] Release 4.5.4 (#31718) ([b4de2a7](https://github.com/bitnami/charts/commit/b4de2a7edbae2d1bba926a18ffc1415c39a5ca9d)), closes [#31718](https://github.com/bitnami/charts/issues/31718)
+
+## <small>4.5.3 (2025-02-03)</small>
+
+* [bitnami/seaweedfs] Release 4.5.3 (#31700) ([6752afa](https://github.com/bitnami/charts/commit/6752afab2f7805c38dfca3ab7e75afffcb0db3e7)), closes [#31700](https://github.com/bitnami/charts/issues/31700)
+* Update copyright year (#31682) ([e9f02f5](https://github.com/bitnami/charts/commit/e9f02f5007068751f7eb2270fece811e685c99b6)), closes [#31682](https://github.com/bitnami/charts/issues/31682)
+
+## <small>4.5.2 (2025-01-24)</small>
+
+* [bitnami/seaweedfs] Release 4.5.2 (#31583) ([fd84724](https://github.com/bitnami/charts/commit/fd8472445476e56d22e2f54014e90d54fef780db)), closes [#31583](https://github.com/bitnami/charts/issues/31583)
+
+## <small>4.5.1 (2025-01-21)</small>
+
+* [bitnami/seaweedfs] Release 4.5.1 (#31490) ([97dae84](https://github.com/bitnami/charts/commit/97dae844ebf47a25522c0b7752595849ca3b711a)), closes [#31490](https://github.com/bitnami/charts/issues/31490)
+
+## 4.5.0 (2025-01-20)
+
+* [bitnami/seaweedfs]: add pod for `weed iam` (#31334) ([5f5a702](https://github.com/bitnami/charts/commit/5f5a70213129a814f4a0d4be92409b9fec9686a5)), closes [#31334](https://github.com/bitnami/charts/issues/31334)
+
+## <small>4.3.2 (2025-01-17)</small>
+
+* [bitnami/seaweedfs] Release 4.3.2 (#31443) ([942718e](https://github.com/bitnami/charts/commit/942718e8ec1eef14fcd63ebc11e2f2ce7a180c17)), closes [#31443](https://github.com/bitnami/charts/issues/31443)
+
+## <small>4.3.1 (2025-01-13)</small>
+
+* [bitnami/seaweedfs]: correct typo in values.yaml regarding s3.auth.existingSecret (#31339) ([31d0532](https://github.com/bitnami/charts/commit/31d0532a517bd0669b445e6974c2c5aace41697d)), closes [#31339](https://github.com/bitnami/charts/issues/31339)
+
 ## 4.3.0 (2025-01-10)
 
-* [bitnami/seaweedfs] Make database check on start optional ([#31277](https://github.com/bitnami/charts/pull/31277))
+* [bitnami/seaweedfs] Make database check on start optional (#31277) ([ddb8a97](https://github.com/bitnami/charts/commit/ddb8a97d80c5bc87f2c33be751fbc35797f5f1be)), closes [#31277](https://github.com/bitnami/charts/issues/31277)
 
 ## <small>4.2.1 (2025-01-07)</small>
 

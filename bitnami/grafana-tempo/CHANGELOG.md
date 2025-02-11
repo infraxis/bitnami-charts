@@ -1,8 +1,26 @@
 # Changelog
 
-## 3.8.1 (2025-01-12)
+## 3.8.5 (2025-02-04)
 
-* [bitnami/grafana-tempo] Release 3.8.1 ([#31315](https://github.com/bitnami/charts/pull/31315))
+* [bitnami/grafana-tempo] Release 3.8.5 ([#31757](https://github.com/bitnami/charts/pull/31757))
+
+## <small>3.8.4 (2025-01-24)</small>
+
+* [bitnami/grafana-tempo] Release 3.8.4 (#31557) ([b291adb](https://github.com/bitnami/charts/commit/b291adb57d77f42c00903a6bdf0f6e3fd82842c6)), closes [#31557](https://github.com/bitnami/charts/issues/31557)
+
+## <small>3.8.3 (2025-01-17)</small>
+
+* [bitnami/grafana-tempo] Release 3.8.3 (#31423) ([e30df1e](https://github.com/bitnami/charts/commit/e30df1e7e90673f0e80a30dafff3e98271434401)), closes [#31423](https://github.com/bitnami/charts/issues/31423)
+
+## <small>3.8.2 (2025-01-14)</small>
+
+* [bitnami/grafana-tempo] Release 3.8.2 (#31353) ([34e557d](https://github.com/bitnami/charts/commit/34e557d61a81aab6a20a39494e9cc9df5d62841b)), closes [#31353](https://github.com/bitnami/charts/issues/31353)
+
+## <small>3.8.1 (2025-01-12)</small>
+
+* [bitnami/*] Fix typo in README (#31052) ([b41a51d](https://github.com/bitnami/charts/commit/b41a51d1bd04841fc108b78d3b8357a5292771c8)), closes [#31052](https://github.com/bitnami/charts/issues/31052)
+* [bitnami/grafana-tempo] Release 3.8.1 (#31315) ([03166d0](https://github.com/bitnami/charts/commit/03166d03a6c5de421ee01c691eeec322658d4b8e)), closes [#31315](https://github.com/bitnami/charts/issues/31315)
+* Update README.md (#31141) ([0ca0ca4](https://github.com/bitnami/charts/commit/0ca0ca4014dda6d04f62849e8ee78516d692a639)), closes [#31141](https://github.com/bitnami/charts/issues/31141)
 
 ## 3.8.0 (2024-12-10)
 
